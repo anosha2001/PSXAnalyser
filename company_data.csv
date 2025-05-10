@@ -1,0 +1,442 @@
+symbol,href,name,sector_id,listed_in,sector_name,,ACI,ALLSHR,BKTI,JSGBKTI,JSMFI,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,OGTI,PSXDIV20,UPP9,data-link
+WTL,https://dps.psx.com.pk/company/WTL,Worldcall Telecom Limited,0828,ALLSHR,TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/WTL
+CNERGY,https://dps.psx.com.pk/company/CNERGY,Cnergyico PK  Limited,0825,"ALLSHR,KMIALLSHR,KSE100",REFINERY,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CNERGY
+SSGC,https://dps.psx.com.pk/company/SSGC,Sui Southern Gas Company Limited,0821,"ALLSHR,JSMFI,KMIALLSHR",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SSGC
+BOP,https://dps.psx.com.pk/company/BOP,The Bank of Punjab,0807,"ALLSHR,KSE100",COMMERCIAL BANKS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BOP
+PRL,https://dps.psx.com.pk/company/PRL,Pakistan Refinery Limited,0825,"ALLSHR,KMI30,KMIALLSHR",REFINERY,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PRL
+PIAHCLA,https://dps.psx.com.pk/company/PIAHCLA,PIA Holding Company Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIAHCLA
+SNGP,https://dps.psx.com.pk/company/SNGP,Sui Northern Gas Pipelines Limited,0821,"ACI,ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,MII30",OIL & GAS MARKETING COMPANIES,0,1,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SNGP
+KEL,https://dps.psx.com.pk/company/KEL,K-Electric Limited,0824,"ALLSHR,KMI30,KMIALLSHR,KSE100",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KEL
+MLCF,https://dps.psx.com.pk/company/MLCF,Maple Leaf Cement Factory Limited,0804,"ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE30,MII30",CEMENT,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MLCF
+KOSM,https://dps.psx.com.pk/company/KOSM,Kohinoor Spinning Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOSM
+HASCOL,https://dps.psx.com.pk/company/HASCOL,Hascol Petroleum Limited,0821,ALLSHR,OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HASCOL
+FFL,https://dps.psx.com.pk/company/FFL,Fauji Foods Limited,0810,"ACI,ALLSHR,KMI30,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FFL
+OGDC,https://dps.psx.com.pk/company/OGDC,Oil & Gas Development Company Limited,0820,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,OGTI",OIL & GAS EXPLORATION COMPANIES,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,https://dps.psx.com.pk/timeseries/eod/OGDC
+PPL,https://dps.psx.com.pk/company/PPL,Pakistan Petroleum Limited,0820,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,OGTI",OIL & GAS EXPLORATION COMPANIES,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,https://dps.psx.com.pk/timeseries/eod/PPL
+PAEL,https://dps.psx.com.pk/company/PAEL,Pak Elektron Limited,0803,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30",CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PAEL
+FCCL,https://dps.psx.com.pk/company/FCCL,Fauji Cement Company Limited,0804,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30",CEMENT,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FCCL
+PIBTL,https://dps.psx.com.pk/company/PIBTL,Pakistan International Bulk Terminal,0833,"ALLSHR,KMIALLSHR,KSE100",TRANSPORT,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIBTL
+PACE,https://dps.psx.com.pk/company/PACE,Pace (Pakistan) Limited,0838,ALLSHR,PROPERTY,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PACE
+DFML,https://dps.psx.com.pk/company/DFML,Dewan Farooque Motors Limited,0801,"ALLSHR,KSE30",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DFML
+DCL,https://dps.psx.com.pk/company/DCL,Dewan Cement Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DCL
+HUBC,https://dps.psx.com.pk/company/HUBC,The Hub Power Company Limited,0824,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/HUBC
+PSO,https://dps.psx.com.pk/company/PSO,Pakistan State Oil Company Limited,0821,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI",OIL & GAS MARKETING COMPANIES,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PSO
+LOTCHEM,https://dps.psx.com.pk/company/LOTCHEM,Lotte Chemical Pakistan Limited,0805,"ALLSHR,KMIALLSHR,KSE100,PSXDIV20",CHEMICAL,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/LOTCHEM
+BBFL,https://dps.psx.com.pk/company/BBFL,Big Bird Foods Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BBFL
+CPHL,https://dps.psx.com.pk/company/CPHL,Citi Pharma Ltd.,0823,"ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CPHL
+TRG,https://dps.psx.com.pk/company/TRG,TRG Pakistan Limited,0828,"ALLSHR,KSE100",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TRG
+BAFL,https://dps.psx.com.pk/company/BAFL,Bank Alfalah Limited,0807,"ALLSHR,BKTI,JSGBKTI,KSE100,PSXDIV20",COMMERCIAL BANKS,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/BAFL
+TELE,https://dps.psx.com.pk/company/TELE,Telecard Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TELE
+PTC,https://dps.psx.com.pk/company/PTC,Pakistan Telecommunication Company Ltd,0828,"ALLSHR,KSE100",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PTC
+DGKC,https://dps.psx.com.pk/company/DGKC,D.G. Khan Cement Company Limited,0804,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30",CEMENT,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DGKC
+NBP,https://dps.psx.com.pk/company/NBP,National Bank of Pakistan,0807,"ALLSHR,BKTI,JSGBKTI,JSMFI,KSE100,KSE30",COMMERCIAL BANKS,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NBP
+ENGROH,https://dps.psx.com.pk/company/ENGROH,Engro Holdings Limited,0813,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/ENGROH
+AGL,https://dps.psx.com.pk/company/AGL,Agritech Limited,0809,"ALLSHR,KSE100",FERTILIZER,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGL
+ASC,https://dps.psx.com.pk/company/ASC,Al Shaheer Corporation Limited,0810,ALLSHR,FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ASC
+SEARL,https://dps.psx.com.pk/company/SEARL,The Searle Company Limited,0823,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI",PHARMACEUTICALS,0,1,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SEARL
+LUCK,https://dps.psx.com.pk/company/LUCK,Lucky Cement Limited,0804,"ACI,ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE30,MII30,NBPPGI,NITPGI,UPP9",CEMENT,0,1,1,0,0,1,1,1,1,1,1,0,1,1,0,0,1,https://dps.psx.com.pk/timeseries/eod/LUCK
+POWER,https://dps.psx.com.pk/company/POWER,Power Cement Limited,0804,"ALLSHR,JSMFI,KMIALLSHR",CEMENT,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/POWER
+FFC,https://dps.psx.com.pk/company/FFC,Fauji Fertilizer Company Limited,0809,"ALLSHR,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20,UPP9",FERTILIZER,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/FFC
+IMAGE,https://dps.psx.com.pk/company/IMAGE,Image Pakistan Limited,0827,"ALLSHR,KMIALLSHR",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IMAGE
+MARI,https://dps.psx.com.pk/company/MARI,Mari Energies Limited,0820,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NITPGI,OGTI,PSXDIV20",OIL & GAS EXPLORATION COMPANIES,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1,0,https://dps.psx.com.pk/timeseries/eod/MARI
+TPLP,https://dps.psx.com.pk/company/TPLP,TPL Properties Limited,0838,"ALLSHR,KMIALLSHR",PROPERTY,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TPLP
+TREET,https://dps.psx.com.pk/company/TREET,Treet Corporation Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TREET
+SYM,https://dps.psx.com.pk/company/SYM,Symmetry Group Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SYM
+BML,https://dps.psx.com.pk/company/BML,Bank Makramah Limited,0807,ALLSHR,COMMERCIAL BANKS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BML
+AGHA,https://dps.psx.com.pk/company/AGHA,Agha Steel Ind.Ltd,0808,ALLSHR,ENGINEERING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGHA
+AVN,https://dps.psx.com.pk/company/AVN,Avanceon Limited,0828,"ALLSHR,KMIALLSHR,KSE100",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AVN
+ASL,https://dps.psx.com.pk/company/ASL,Aisha Steel Mills Limited,0808,ALLSHR,ENGINEERING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ASL
+AIRLINK,https://dps.psx.com.pk/company/AIRLINK,Air Link Communication Limited,0828,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AIRLINK
+SLGL,https://dps.psx.com.pk/company/SLGL,Secure Logistics Group Limited,0833,"ALLSHR,KMIALLSHR",TRANSPORT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SLGL
+PREMA,https://dps.psx.com.pk/company/PREMA,At-Tahur Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PREMA
+FCL,https://dps.psx.com.pk/company/FCL,Fast Cables Limited,0803,"ALLSHR,KMIALLSHR",CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FCL
+UBL,https://dps.psx.com.pk/company/UBL,United Bank Limited,0807,"ALLSHR,BKTI,JSGBKTI,JSMFI,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20,UPP9",COMMERCIAL BANKS,0,0,1,1,1,1,0,0,1,1,0,0,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/UBL
+GCIL,https://dps.psx.com.pk/company/GCIL,Ghani Chemical Industries Limited,0805,ALLSHR,CHEMICAL,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GCIL
+GGL,https://dps.psx.com.pk/company/GGL,Ghani Global Holdings Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GGL
+PSX,https://dps.psx.com.pk/company/PSX,Pakistan Stock Exchange Limited,0813,"ALLSHR,KSE100",INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PSX
+FABL,https://dps.psx.com.pk/company/FABL,Faysal Bank Limited,0807,"ALLSHR,BKTI,JSGBKTI,KMI30,KMIALLSHR,KSE100,MII30,PSXDIV20",COMMERCIAL BANKS,0,0,1,1,1,0,1,1,1,0,1,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/FABL
+HBL,https://dps.psx.com.pk/company/HBL,Habib Bank Limited,0807,"ALLSHR,BKTI,JSGBKTI,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20",COMMERCIAL BANKS,0,0,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,https://dps.psx.com.pk/timeseries/eod/HBL
+EFERT,https://dps.psx.com.pk/company/EFERT,Engro Fertilizers Limited,0809,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",FERTILIZER,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/EFERT
+GAL,https://dps.psx.com.pk/company/GAL,Ghandhara Automobiles Limited,0801,"ALLSHR,KMIALLSHR,KSE30",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GAL
+GHNI,https://dps.psx.com.pk/company/GHNI,Ghandhara Industries Limited,0801,"ALLSHR,KMI30,KMIALLSHR,KSE30",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GHNI
+TOMCL,https://dps.psx.com.pk/company/TOMCL,The Organic Meat Company Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TOMCL
+BIPL,https://dps.psx.com.pk/company/BIPL,BankIslami Pakistan Limited,0807,"ALLSHR,KMIALLSHR,PSXDIV20",COMMERCIAL BANKS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/BIPL
+YOUW,https://dps.psx.com.pk/company/YOUW,Yousaf Weaving Mills Limited,0831,"ALLSHR,KMIALLSHR,KSE100",TEXTILE WEAVING,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/YOUW
+FLYNG,https://dps.psx.com.pk/company/FLYNG,Flying Cement Company Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FLYNG
+WAVESAPP,https://dps.psx.com.pk/company/WAVESAPP,Waves Home Appliances Limited,0803,"ALLSHR,KMIALLSHR",CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/WAVESAPP
+GGGL,https://dps.psx.com.pk/company/GGGL,Ghani Global Glass Limited,0811,"ALLSHR,KMIALLSHR",GLASS & CERAMICS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GGGL
+ZAL,https://dps.psx.com.pk/company/ZAL,Zarea Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ZAL
+JSMFETF,https://dps.psx.com.pk/etf/JSMFETF,JS Momentum Factor Exchange Traded Fund,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSMFETF
+AHCL,https://dps.psx.com.pk/company/AHCL,Arif Habib Corporation Limited,0809,ALLSHR,FERTILIZER,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AHCL
+GCWL,https://dps.psx.com.pk/company/GCWL,Ghani Chemworld Limited,0805,ALLSHR,CHEMICAL,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GCWL
+ITTEFAQ,https://dps.psx.com.pk/company/ITTEFAQ,Ittefaq Iron Industries Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ITTEFAQ
+TBL,https://dps.psx.com.pk/company/TBL,Treet Battery Limited.,0802,ALLSHR,AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TBL
+THCCL,https://dps.psx.com.pk/company/THCCL,Thatta Cement Company Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/THCCL
+BFAGRO,https://dps.psx.com.pk/company/BFAGRO,Barkat Frisian Agro Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BFAGRO
+AGP,https://dps.psx.com.pk/company/AGP,AGP Limited,0823,"ALLSHR,KMIALLSHR,KSE100",PHARMACEUTICALS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGP
+BFBIO,https://dps.psx.com.pk/company/BFBIO,BF Biosciences Limited,0823,"ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BFBIO
+BNL,https://dps.psx.com.pk/company/BNL,Bunnys Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BNL
+MEBL,https://dps.psx.com.pk/company/MEBL,Meezan Bank Limited,0807,"ALLSHR,BKTI,JSGBKTI,JSMFI,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI,NBPPGI,NITPGI,PSXDIV20,UPP9",COMMERCIAL BANKS,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/MEBL
+DCR,https://dps.psx.com.pk/company/DCR,Dolmen City REIT,0836,"ALLSHR,KMIALLSHR,KSE100",REAL ESTATE INVESTMENT TRUST,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DCR
+ATRL,https://dps.psx.com.pk/company/ATRL,Attock Refinery Limited,0825,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI",REFINERY,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ATRL
+JGICL,https://dps.psx.com.pk/company/JGICL,Jubilee General Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JGICL
+FNEL,https://dps.psx.com.pk/company/FNEL,First National Equities Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FNEL
+SNBL,https://dps.psx.com.pk/company/SNBL,Soneri Bank Limited,0807,ALLSHR,COMMERCIAL BANKS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SNBL
+GHGL,https://dps.psx.com.pk/company/GHGL,Ghani Glass Limited,0811,"ALLSHR,KMIALLSHR,KSE100",GLASS & CERAMICS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GHGL
+OCTOPUS,https://dps.psx.com.pk/company/OCTOPUS,Octopus Digital Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OCTOPUS
+BAHL,https://dps.psx.com.pk/company/BAHL,Bank AL Habib Limited,0807,"ALLSHR,BKTI,JSGBKTI,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20",COMMERCIAL BANKS,0,0,1,1,1,0,0,0,1,1,0,0,1,1,0,1,0,https://dps.psx.com.pk/timeseries/eod/BAHL
+HUMNL,https://dps.psx.com.pk/company/HUMNL,Hum Network Limited,0828,"ALLSHR,KSE100",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HUMNL
+DSL,https://dps.psx.com.pk/company/DSL,Dost Steels Limited,0808,ALLSHR,ENGINEERING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DSL
+NETSOL,https://dps.psx.com.pk/company/NETSOL,NetSol Technologies Limited,0828,"ALLSHR,KMIALLSHR,KSE30",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NETSOL
+QUICE,https://dps.psx.com.pk/company/QUICE,Quice Food Industries Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/QUICE
+WAVES,https://dps.psx.com.pk/company/WAVES,Waves Corporation Limited,0803,"ALLSHR,KMIALLSHR",CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/WAVES
+NRL,https://dps.psx.com.pk/company/NRL,National Refinery Limited,0825,"ALLSHR,KMI30,KMIALLSHR",REFINERY,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NRL
+SPEL,https://dps.psx.com.pk/company/SPEL,SPEL Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SPEL
+CWSM,https://dps.psx.com.pk/company/CWSM,Chakwal Spinning Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CWSM
+KAPCO,https://dps.psx.com.pk/company/KAPCO,Kot Addu Power Company Limited,0824,"ALLSHR,KSE100,PSXDIV20",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/KAPCO
+MZNPETF,https://dps.psx.com.pk/etf/MZNPETF,Meezan Pakistan ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MZNPETF
+NML,https://dps.psx.com.pk/company/NML,Nishat Mills Limited,0829,"ACI,ALLSHR,KMIALLSHR,KSE100",TEXTILE COMPOSITE,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NML
+AKBL,https://dps.psx.com.pk/company/AKBL,Askari Bank Limited,0807,"ALLSHR,KSE100",COMMERCIAL BANKS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AKBL
+MCB,https://dps.psx.com.pk/company/MCB,MCB Bank Limited,0807,"ALLSHR,BKTI,JSGBKTI,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20,UPP9",COMMERCIAL BANKS,0,0,1,1,1,0,0,0,1,1,0,0,1,1,0,1,1,https://dps.psx.com.pk/timeseries/eod/MCB
+INIL,https://dps.psx.com.pk/company/INIL,International Industries Limited,0808,"ACI,ALLSHR,KMIALLSHR,KSE100",ENGINEERING,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/INIL
+PASL,https://dps.psx.com.pk/company/PASL,Pervez Ahmed Consultancy Services Ltd.,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PASL
+PIL,https://dps.psx.com.pk/company/PIL,PICIC Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIL
+LOADS,https://dps.psx.com.pk/company/LOADS,Loads Limited,0802,ALLSHR,AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LOADS
+CSAP,https://dps.psx.com.pk/company/CSAP,Crescent Steel & Allied Products Limited,0808,"ACI,ALLSHR,JSMFI,KMIALLSHR",ENGINEERING,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CSAP
+HCAR,https://dps.psx.com.pk/company/HCAR,Honda Atlas Cars (Pakistan) Limited,0801,"ALLSHR,KMI30,KMIALLSHR,KSE100",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HCAR
+SAZEW,https://dps.psx.com.pk/company/SAZEW,Sazgar Engineering Works Limited,0801,"ACI,ALLSHR,JSMFI,KMI30,KMIALLSHR,KSE100,KSE30,MII30,MZNPI",AUTOMOBILE ASSEMBLER,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SAZEW
+EPCL,https://dps.psx.com.pk/company/EPCL,Engro Polymer & Chemicals Limited,0805,"ALLSHR,KMI30,KMIALLSHR,KSE100",CHEMICAL,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EPCL
+EPQL,https://dps.psx.com.pk/company/EPQL,Engro Powergen Qadirpur Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EPQL
+JSCL,https://dps.psx.com.pk/company/JSCL,Jahangir Siddiqui & Co. Ltd.,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSCL
+UNITY,https://dps.psx.com.pk/company/UNITY,Unity Foods Limited,0810,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UNITY
+GWLC,https://dps.psx.com.pk/company/GWLC,Gharibwal Cement Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GWLC
+TGL,https://dps.psx.com.pk/company/TGL,Tariq Glass Industries Limited,0811,"ALLSHR,KMIALLSHR,KSE100",GLASS & CERAMICS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TGL
+FATIMA,https://dps.psx.com.pk/company/FATIMA,Fatima Fertilizer Company Limited,0809,"ALLSHR,KMIALLSHR,KSE100,MII30,PSXDIV20",FERTILIZER,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/FATIMA
+DFSM,https://dps.psx.com.pk/company/DFSM,Dewan Farooque Spinning Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DFSM
+ILP,https://dps.psx.com.pk/company/ILP,Interloop Limited,0829,"ACI,ALLSHR,KMIALLSHR,KSE100,MII30",TEXTILE COMPOSITE,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ILP
+SPWL,https://dps.psx.com.pk/company/SPWL,Saif Power Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SPWL
+HMB,https://dps.psx.com.pk/company/HMB,Habib Metropolitan Bank Limited,0807,"ALLSHR,KSE100",COMMERCIAL BANKS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HMB
+FCSC,https://dps.psx.com.pk/company/FCSC,First Capital Securities Corporation,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FCSC
+MUGHAL,https://dps.psx.com.pk/company/MUGHAL,Mughal Iron & Steel Industries Limited,0808,"ACI,ALLSHR,KMIALLSHR,KSE100",ENGINEERING,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MUGHAL
+MIIETF,https://dps.psx.com.pk/etf/MIIETF,Mahaana Islamic Index ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MIIETF
+HIRAT,https://dps.psx.com.pk/company/HIRAT,Hira Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HIRAT
+MDTL,https://dps.psx.com.pk/company/MDTL,Media Times Limited,0828,ALLSHR,TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MDTL
+STPL,https://dps.psx.com.pk/company/STPL,Siddiqsons Tin Plate Limited,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/STPL
+NPL,https://dps.psx.com.pk/company/NPL,Nishat Power Limited,0824,"ALLSHR,KSE100,PSXDIV20",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/NPL
+POL,https://dps.psx.com.pk/company/POL,Pakistan Oilfields Limited,0820,"ALLSHR,KSE100,KSE30,NBPPGI,NITPGI,PSXDIV20",OIL & GAS EXPLORATION COMPANIES,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,https://dps.psx.com.pk/timeseries/eod/POL
+FCEPL,https://dps.psx.com.pk/company/FCEPL,Frieslandcampina Engro Pakistan Limited,0810,"ALLSHR,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FCEPL
+HIFA,https://dps.psx.com.pk/company/HIFA,HBL Investment Fund,0806,ALLSHR,CLOSE - END MUTUAL FUND,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HIFA
+PAKRI,https://dps.psx.com.pk/company/PAKRI,Pakistan Reinsurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PAKRI
+ALTN,https://dps.psx.com.pk/company/ALTN,Altern Energy Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ALTN
+GLAXO,https://dps.psx.com.pk/company/GLAXO,GlaxoSmithKline Pakistan Limited,0823,"ALLSHR,KMIALLSHR,KSE100,MII30",PHARMACEUTICALS,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GLAXO
+CSIL,https://dps.psx.com.pk/company/CSIL,Crescent Star Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CSIL
+ISL,https://dps.psx.com.pk/company/ISL,International Steels Limited,0808,"ACI,ALLSHR,KMIALLSHR,KSE100,PSXDIV20",ENGINEERING,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/ISL
+NRSL,https://dps.psx.com.pk/company/NRSL,Nimir Resins Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NRSL
+ANL,https://dps.psx.com.pk/company/ANL,Azgard Nine Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ANL
+TPL,https://dps.psx.com.pk/company/TPL,TPL Corp Limited,0828,ALLSHR,TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TPL
+KOHE,https://dps.psx.com.pk/company/KOHE,Kohinoor Energy Limited,0824,"ALLSHR,KMIALLSHR",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOHE
+SYS,https://dps.psx.com.pk/company/SYS,Systems Limited,0828,"ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30,NBPPGI,UPP9",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,1,https://dps.psx.com.pk/timeseries/eod/SYS
+IBLHL,https://dps.psx.com.pk/company/IBLHL,IBL HealthCare Limited,0823,"ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IBLHL
+JSBL,https://dps.psx.com.pk/company/JSBL,JS Bank Limited,0807,ALLSHR,COMMERCIAL BANKS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSBL
+AICL,https://dps.psx.com.pk/company/AICL,Adamjee Insurance Company Limited,0812,"ALLSHR,KSE100",INSURANCE,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AICL
+CJPL,https://dps.psx.com.pk/company/CJPL,Crescent Jute Products Limited,0814,ALLSHR,JUTE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CJPL
+ASTL,https://dps.psx.com.pk/company/ASTL,Amreli Steels Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ASTL
+BILF,https://dps.psx.com.pk/company/BILF,Bilal Fibres Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BILF
+DOL,https://dps.psx.com.pk/company/DOL,Descon Oxychem Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DOL
+TPLT,https://dps.psx.com.pk/company/TPLT,TPL Trakker Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TPLT
+CEPB,https://dps.psx.com.pk/company/CEPB,Century Paper & Board Mills Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CEPB
+KSBP,https://dps.psx.com.pk/company/KSBP,KSB Pumps Company Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KSBP
+GATM,https://dps.psx.com.pk/company/GATM,Gul Ahmed Textile Mills Limited,0829,"ACI,ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GATM
+LPL,https://dps.psx.com.pk/company/LPL,Lalpir Power Limited,0824,"ALLSHR,KMIALLSHR,PSXDIV20",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,https://dps.psx.com.pk/timeseries/eod/LPL
+DSIL,https://dps.psx.com.pk/company/DSIL,D.S. Industries Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DSIL
+RPL,https://dps.psx.com.pk/company/RPL,Roshan Packages Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RPL
+AHL,https://dps.psx.com.pk/company/AHL,Arif Habib Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AHL
+GTYR,https://dps.psx.com.pk/company/GTYR,Ghandhara Tyre & Rubber Company Limited,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GTYR
+NATF,https://dps.psx.com.pk/company/NATF,National Foods Limited,0810,"ALLSHR,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NATF
+PIOC,https://dps.psx.com.pk/company/PIOC,Pioneer Cement Limited,0804,"ALLSHR,KMI30,KMIALLSHR,KSE100,MII30",CEMENT,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIOC
+CRTM,https://dps.psx.com.pk/company/CRTM,The Crescent Textile Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CRTM
+GVGL,https://dps.psx.com.pk/company/GVGL,Ghani Value Glass Limited,0811,"ALLSHR,KMIALLSHR",GLASS & CERAMICS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GVGL
+SML,https://dps.psx.com.pk/company/SML,Shakarganj Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SML
+BGL,https://dps.psx.com.pk/company/BGL,Baluchistan Glass Limited,0811,"ALLSHR,KMIALLSHR",GLASS & CERAMICS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BGL
+PMI,https://dps.psx.com.pk/company/PMI,First Prudential Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PMI
+MFL,https://dps.psx.com.pk/company/MFL,Matco Foods Limited,0810,ALLSHR,FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MFL
+GAMON,https://dps.psx.com.pk/company/GAMON,Gammon Pakistan Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GAMON
+CLOV,https://dps.psx.com.pk/company/CLOV,Clover Pakistan Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CLOV
+KOHC,https://dps.psx.com.pk/company/KOHC,Kohat Cement Company Limited,0804,"ALLSHR,KMIALLSHR,KSE100,MII30",CEMENT,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOHC
+AKDSL,https://dps.psx.com.pk/company/AKDSL,AKD Securities Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AKDSL
+FDPL,https://dps.psx.com.pk/company/FDPL,First Dawood Properties Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FDPL
+CYAN,https://dps.psx.com.pk/company/CYAN,Cyan Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CYAN
+AGIL,https://dps.psx.com.pk/company/AGIL,Agriauto Industries Limited,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGIL
+ESBL,https://dps.psx.com.pk/company/ESBL,Escorts Investment Bank Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ESBL
+NCPL,https://dps.psx.com.pk/company/NCPL,Nishat Chunian Power Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NCPL
+DBCI,https://dps.psx.com.pk/company/DBCI,Dadabhoy Cement Industries Limited,0804,ALLSHR,CEMENT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DBCI
+SSOM,https://dps.psx.com.pk/company/SSOM,S.S.Oil Mills Limited,0834,"ALLSHR,KMIALLSHR",VANASPATI & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SSOM
+HICL,https://dps.psx.com.pk/company/HICL,Habib Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HICL
+BECO,https://dps.psx.com.pk/company/BECO,Beco Steel Limited,0808,ALLSHR,ENGINEERING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BECO
+NCL,https://dps.psx.com.pk/company/NCL,Nishat Chunian Limited,0829,"ACI,ALLSHR",TEXTILE COMPOSITE,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NCL
+SUTM,https://dps.psx.com.pk/company/SUTM,Sunrays Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SUTM
+MTL,https://dps.psx.com.pk/company/MTL,Millat Tractors Limited,0801,"ACI,ALLSHR,KMI30,KMIALLSHR,KSE100,KSE30,MII30",AUTOMOBILE ASSEMBLER,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MTL
+PICT,https://dps.psx.com.pk/company/PICT,Pakistan International Container,0833,ALLSHR,TRANSPORT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PICT
+BCL,https://dps.psx.com.pk/company/BCL,Bolan Castings Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BCL
+CTM,https://dps.psx.com.pk/company/CTM,Colony Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CTM
+HTL,https://dps.psx.com.pk/company/HTL,Hi-Tech Lubricants Limited,0821,"ALLSHR,KMIALLSHR",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HTL
+MACFL,https://dps.psx.com.pk/company/MACFL,MACPAC Films Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MACFL
+ACPL,https://dps.psx.com.pk/company/ACPL,Attock Cement Pakistan Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ACPL
+AMTEX,https://dps.psx.com.pk/company/AMTEX,Amtex Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AMTEX
+ABOT,https://dps.psx.com.pk/company/ABOT,Abbott Laboratories (Pakistan) Limited,0823,"ALLSHR,KMIALLSHR,KSE100,MII30",PHARMACEUTICALS,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ABOT
+CLCPS,https://dps.psx.com.pk/company/CLCPS,Chenab Limited (Pref),0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CLCPS
+CHBL,https://dps.psx.com.pk/company/CHBL,Chenab Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CHBL
+ICIBL,https://dps.psx.com.pk/company/ICIBL,Invest Capital Investment Bank Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ICIBL
+IDYM,https://dps.psx.com.pk/company/IDYM,Indus Dyeing & Manufacturing Co. Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IDYM
+CLVL,https://dps.psx.com.pk/company/CLVL,Cordoba Logistics & Ventures Limited,0833,"ALLSHR,KMIALLSHR",TRANSPORT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CLVL
+OLPL,https://dps.psx.com.pk/company/OLPL,OLP Financial Services Pakistan Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OLPL
+PABC,https://dps.psx.com.pk/company/PABC,Pakistan Aluminium Beverage Cans Limited,0818,"ALLSHR,KMIALLSHR,KSE100",MISCELLANEOUS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PABC
+FECTC,https://dps.psx.com.pk/company/FECTC,Fecto Cement Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FECTC
+PNSC,https://dps.psx.com.pk/company/PNSC,Pakistan National Shipping Corporation,0833,ALLSHR,TRANSPORT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PNSC
+HALEON,https://dps.psx.com.pk/company/HALEON,Haleon Pakistan Limited,0823,"ALLSHR,KMIALLSHR,KSE100",PHARMACEUTICALS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HALEON
+CHCC,https://dps.psx.com.pk/company/CHCC,Cherat Cement Company Limited,0804,"ACI,ALLSHR,KMIALLSHR,KSE100,MII30",CEMENT,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CHCC
+DWSM,https://dps.psx.com.pk/company/DWSM,Dewan Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DWSM
+ANTM,https://dps.psx.com.pk/company/ANTM,AN Textile Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ANTM
+MFFL,https://dps.psx.com.pk/company/MFFL,Mitchells Fruit Farms Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MFFL
+AGSML,https://dps.psx.com.pk/company/AGSML,Abdullah Shah Ghazi Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGSML
+ARUJ,https://dps.psx.com.pk/company/ARUJ,Aruj Industries Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ARUJ
+THALL,https://dps.psx.com.pk/company/THALL,Thal Limited,0802,"ALLSHR,KSE100",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/THALL
+IPAK,https://dps.psx.com.pk/company/IPAK,International Packaging Films Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IPAK
+FEROZ,https://dps.psx.com.pk/company/FEROZ,Ferozsons Laboratories Limited,0823,"ACI,ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FEROZ
+PTL,https://dps.psx.com.pk/company/PTL,Panther Tyres Ltd.,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PTL
+GEMSPNL,https://dps.psx.com.pk/company/GEMSPNL,Supernet Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GEMSPNL
+HGFA,https://dps.psx.com.pk/company/HGFA,HBL Growth Fund,0806,"ALLSHR,KSE100",CLOSE - END MUTUAL FUND,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HGFA
+DNCC,https://dps.psx.com.pk/company/DNCC,Dandot Cement Company Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DNCC
+APL,https://dps.psx.com.pk/company/APL,Attock Petroleum Limited,0821,"ALLSHR,KMIALLSHR,KSE100",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/APL
+BERG,https://dps.psx.com.pk/company/BERG,Berger Paints Pakistan Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BERG
+SERT,https://dps.psx.com.pk/company/SERT,Service Industries Textiles Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SERT
+BIFO,https://dps.psx.com.pk/company/BIFO,Biafo Industries Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BIFO
+POML,https://dps.psx.com.pk/company/POML,Punjab Oil Mills Limited,0834,"ALLSHR,KMIALLSHR,KSE100",VANASPATI & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/POML
+WAFI,https://dps.psx.com.pk/company/WAFI,Wafi Energy Pakistan Limited,0821,"ALLSHR,KMIALLSHR",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/WAFI
+ABL,https://dps.psx.com.pk/company/ABL,Allied Bank Limited,0807,"ALLSHR,KSE100",COMMERCIAL BANKS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ABL
+DHPL,https://dps.psx.com.pk/company/DHPL,DH Partners Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DHPL
+HBLTETF,https://dps.psx.com.pk/etf/HBLTETF,HBL Total Treasury ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HBLTETF
+OML,https://dps.psx.com.pk/company/OML,Olympia Mills Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OML
+KHTC,https://dps.psx.com.pk/company/KHTC,Khyber Tobacco Company Limited,0832,ALLSHR,TOBACCO,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KHTC
+HINOON,https://dps.psx.com.pk/company/HINOON,Highnoon Laboratories Limited,0823,"ALLSHR,KMIALLSHR,KSE100,MII30",PHARMACEUTICALS,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HINOON
+PKGS,https://dps.psx.com.pk/company/PKGS,Packages Limited,0822,"ALLSHR,KMIALLSHR,KSE100,MII30","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PKGS
+SMCPL,https://dps.psx.com.pk/company/SMCPL,Safe Mix Concrete Limited,0804,"ALLSHR,KMIALLSHR",CEMENT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SMCPL
+ECOP,https://dps.psx.com.pk/company/ECOP,Ecopack Limited,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ECOP
+FPJM,https://dps.psx.com.pk/company/FPJM,First Punjab Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FPJM
+ATBA,https://dps.psx.com.pk/company/ATBA,Atlas Battery Limited,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ATBA
+AGTL,https://dps.psx.com.pk/company/AGTL,Al-Ghazi Tractors Limited,0801,"ALLSHR,KMIALLSHR",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGTL
+JUBS,https://dps.psx.com.pk/company/JUBS,Jubilee Spinning & Weaving Mills Ltd.,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JUBS
+JVDC,https://dps.psx.com.pk/company/JVDC,Javedan Corporation Limited,0838,"ALLSHR,KMIALLSHR,KSE100",PROPERTY,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JVDC
+KOHP,https://dps.psx.com.pk/company/KOHP,Kohinoor Power Company Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOHP
+BAPL,https://dps.psx.com.pk/company/BAPL,Bawany Air Products Limited,0805,ALLSHR,CHEMICAL,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BAPL
+IMS,https://dps.psx.com.pk/company/IMS,Intermarket Securities Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IMS
+IGIHL,https://dps.psx.com.pk/company/IGIHL,IGI Holdings Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IGIHL
+STCL,https://dps.psx.com.pk/company/STCL,Shabbir Tiles & Ceramics Limited,0811,"ALLSHR,KMIALLSHR",GLASS & CERAMICS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/STCL
+RICL,https://dps.psx.com.pk/company/RICL,Reliance Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RICL
+SRVI,https://dps.psx.com.pk/company/SRVI,Service Industries Limited,0816,"ALLSHR,KSE100",LEATHER & TANNERIES,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SRVI
+JSIL,https://dps.psx.com.pk/company/JSIL,JS Investments Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSIL
+OBOY,https://dps.psx.com.pk/company/OBOY,Oilboy Energy Limited,0821,"ALLSHR,KMIALLSHR",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OBOY
+SGF,https://dps.psx.com.pk/company/SGF,Service GlobalFootwear Limited,0816,"ALLSHR,KMIALLSHR",LEATHER & TANNERIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SGF
+OTSU,https://dps.psx.com.pk/company/OTSU,Otsuka Pakistan Limited,0823,ALLSHR,PHARMACEUTICALS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OTSU
+MSCL,https://dps.psx.com.pk/company/MSCL,Metropolitan Steel Corporation Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MSCL
+SSML,https://dps.psx.com.pk/company/SSML,Saritow Spinning Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SSML
+GFIL,https://dps.psx.com.pk/company/GFIL,Ghazi Fabrics International Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GFIL
+KTML,https://dps.psx.com.pk/company/KTML,Kohinoor Textile Mills Limited,0829,"ALLSHR,KMIALLSHR,KSE100",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KTML
+MERIT,https://dps.psx.com.pk/company/MERIT,Merit Packaging Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MERIT
+INKL,https://dps.psx.com.pk/company/INKL,International Knitwear Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/INKL
+UBLPETF,https://dps.psx.com.pk/etf/UBLPETF,UBLPakistan Enterprise ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UBLPETF
+DADX,https://dps.psx.com.pk/company/DADX,Dadex Eternit Limited,0808,"ALLSHR,KMIALLSHR",ENGINEERING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DADX
+ALAC,https://dps.psx.com.pk/company/ALAC,Askari Life Assurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ALAC
+DMTM,https://dps.psx.com.pk/company/DMTM,Dewan Mushtaq Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DMTM
+UVIC,https://dps.psx.com.pk/company/UVIC,The Universal Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UVIC
+DEL,https://dps.psx.com.pk/company/DEL,Dawood Equities Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DEL
+GLPL,https://dps.psx.com.pk/company/GLPL,Gillette Pakistan Limited,0810,ALLSHR,FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GLPL
+GRR,https://dps.psx.com.pk/company/GRR,Globe Residency REIT,0836,ALLSHR,REAL ESTATE INVESTMENT TRUST,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GRR
+TRSM,https://dps.psx.com.pk/company/TRSM,Trust Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TRSM
+TSPL,https://dps.psx.com.pk/company/TSPL,Tri-Star Power Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TSPL
+DWAE,https://dps.psx.com.pk/company/DWAE,Dewan Automotive Engineering Limited,0802,ALLSHR,AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DWAE
+ASTM,https://dps.psx.com.pk/company/ASTM,Asim Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ASTM
+FECM,https://dps.psx.com.pk/company/FECM,First Elite Capital Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FECM
+SCBPL,https://dps.psx.com.pk/company/SCBPL,Standard Chartered Bank (Pak) Ltd,0807,"ALLSHR,KSE100",COMMERCIAL BANKS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SCBPL
+PSYL,https://dps.psx.com.pk/company/PSYL,Pakistan Synthetics Limited,0827,"ALLSHR,KMIALLSHR",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PSYL
+WAHN,https://dps.psx.com.pk/company/WAHN,Wah Noble Chemicals Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/WAHN
+ATLH,https://dps.psx.com.pk/company/ATLH,Atlas Honda Limited,0801,"ALLSHR,KMIALLSHR,KSE100",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ATLH
+GADT,https://dps.psx.com.pk/company/GADT,Gadoon Textile Mills Limited,0830,"ALLSHR,KSE100",TEXTILE SPINNING,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GADT
+EFUL,https://dps.psx.com.pk/company/EFUL,EFU Life Assurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EFUL
+ICL,https://dps.psx.com.pk/company/ICL,Ittehad Chemicals Limted,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ICL
+LSECL,https://dps.psx.com.pk/company/LSECL,LSE Capital Limited.,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LSECL
+POWERPS,https://dps.psx.com.pk/company/POWERPS,Power Cement (Pref),0804,ALLSHR,CEMENT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/POWERPS
+CPPL,https://dps.psx.com.pk/company/CPPL,Cherat Packaging Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CPPL
+BWCL,https://dps.psx.com.pk/company/BWCL,Bestway Cement Limited,0804,"ALLSHR,KMIALLSHR,KSE100",CEMENT,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BWCL
+JSGBETF,https://dps.psx.com.pk/etf/JSGBETF,JS Global Banking Sector(ETF),0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSGBETF
+SLYT,https://dps.psx.com.pk/company/SLYT,Sally Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SLYT
+HINO,https://dps.psx.com.pk/company/HINO,Hinopak Motors Limited,0801,"ALLSHR,KMIALLSHR",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HINO
+COLG,https://dps.psx.com.pk/company/COLG,Colgate-Palmolive (Pakistan) Limited,0810,"ALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/COLG
+FANM,https://dps.psx.com.pk/company/FANM,First Al-Noor Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FANM
+STYLERS,https://dps.psx.com.pk/company/STYLERS,Stylers International Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/STYLERS
+SHFA,https://dps.psx.com.pk/company/SHFA,Shifa International Hospitals Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHFA
+ATIL,https://dps.psx.com.pk/company/ATIL,Atlas Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ATIL
+LCI,https://dps.psx.com.pk/company/LCI,Lucky Core Industries Limited,0805,"ALLSHR,KMIALLSHR,KSE100",CHEMICAL,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LCI
+SKRS,https://dps.psx.com.pk/company/SKRS,Sakrand Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SKRS
+UNIC,https://dps.psx.com.pk/company/UNIC,The United Insurance Company,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UNIC
+TPLRF1,https://dps.psx.com.pk/company/TPLRF1,TPL REIT Fund I,0836,"ALLSHR,KMIALLSHR,KSE100",REAL ESTATE INVESTMENT TRUST,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TPLRF1
+TCORP,https://dps.psx.com.pk/company/TCORP,Tariq Corporation Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TCORP
+FML,https://dps.psx.com.pk/company/FML,Feroze1888 Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FML
+TOWL,https://dps.psx.com.pk/company/TOWL,Towellers Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TOWL
+PAKOXY,https://dps.psx.com.pk/company/PAKOXY,Pakistan Oxygen Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PAKOXY
+HAEL,https://dps.psx.com.pk/company/HAEL,Hala Enterprises Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HAEL
+UDLI,https://dps.psx.com.pk/company/UDLI,UDL International Limited,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UDLI
+PASM,https://dps.psx.com.pk/company/PASM,Paramount Spinning Mills Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PASM
+LIVEN,https://dps.psx.com.pk/company/LIVEN,Liven Pharma Limited,0823,ALLSHR,PHARMACEUTICALS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LIVEN
+HWQS,https://dps.psx.com.pk/company/HWQS,Haseeb Waqas Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HWQS
+EXIDE,https://dps.psx.com.pk/company/EXIDE,Exide Pakistan Limited,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EXIDE
+MACTER,https://dps.psx.com.pk/company/MACTER,Macter International Limited,0823,"ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MACTER
+LPGL,https://dps.psx.com.pk/company/LPGL,Leiner Pak Gelatine Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LPGL
+SPL,https://dps.psx.com.pk/company/SPL,Sitara Peroxide Limited,0805,ALLSHR,CHEMICAL,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SPL
+NICL,https://dps.psx.com.pk/company/NICL,Nimir Industrial Chemicals Limited,0805,ALLSHR,CHEMICAL,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NICL
+ALIFE,https://dps.psx.com.pk/company/ALIFE,Adamjee Life Assurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ALIFE
+INDU,https://dps.psx.com.pk/company/INDU,Indus Motor Company Limited,0801,"ALLSHR,KSE100",AUTOMOBILE ASSEMBLER,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/INDU
+SEPL,https://dps.psx.com.pk/company/SEPL,Security Papers Limited,0822,ALLSHR,"PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SEPL
+PAKT,https://dps.psx.com.pk/company/PAKT,Pakistan Tobacco Company Limited,0832,"ALLSHR,KSE100",TOBACCO,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PAKT
+ACIETF,https://dps.psx.com.pk/etf/ACIETF,Alfalah Consumer Index (ETF),0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ACIETF
+PAKD,https://dps.psx.com.pk/company/PAKD,Pak Datacom Limited,0828,"ALLSHR,KMIALLSHR",TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PAKD
+CENI,https://dps.psx.com.pk/company/CENI,Century Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CENI
+NAGC,https://dps.psx.com.pk/company/NAGC,Nagina Cotton Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NAGC
+UDPL,https://dps.psx.com.pk/company/UDPL,United Distributors Pakistan Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UDPL
+JSML,https://dps.psx.com.pk/company/JSML,Jauharabad Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSML
+UCAPM,https://dps.psx.com.pk/company/UCAPM,Unicap Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UCAPM
+UBDL,https://dps.psx.com.pk/company/UBDL,United Brands Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UBDL
+QUET,https://dps.psx.com.pk/company/QUET,Quetta Textile Mills Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/QUET
+JLICL,https://dps.psx.com.pk/company/JLICL,Jubilee Life Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JLICL
+LEUL,https://dps.psx.com.pk/company/LEUL,Leather Up Limited,0816,"ALLSHR,KMIALLSHR",LEATHER & TANNERIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LEUL
+MUREB,https://dps.psx.com.pk/company/MUREB,Murree Brewery Company Limited,0810,"ALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MUREB
+SHEZ,https://dps.psx.com.pk/company/SHEZ,Shezan International Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHEZ
+SHNI,https://dps.psx.com.pk/company/SHNI,Shaheen Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHNI
+GEMBCEM,https://dps.psx.com.pk/company/GEMBCEM,Burj Clean Energy Modaraba(GEM),0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GEMBCEM
+BNWM,https://dps.psx.com.pk/company/BNWM,Bannu Woollen Mills Limited,0835,"ALLSHR,KMIALLSHR,KSE100",WOOLLEN,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BNWM
+AKDHL,https://dps.psx.com.pk/company/AKDHL,AKD Hospitality Limited,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AKDHL
+CHAS,https://dps.psx.com.pk/company/CHAS,Chashma Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CHAS
+RUPL,https://dps.psx.com.pk/company/RUPL,Rupali Polyester Limited,0827,"ALLSHR,KMIALLSHR",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RUPL
+EMCO,https://dps.psx.com.pk/company/EMCO,Emco Industries Limited,0803,"ALLSHR,KMIALLSHR",CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EMCO
+LSEVL,https://dps.psx.com.pk/company/LSEVL,LSE Ventures Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LSEVL
+GEMPAPL,https://dps.psx.com.pk/company/GEMPAPL,Pak Agro Packaging Limited(GEM),0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GEMPAPL
+MIRKS,https://dps.psx.com.pk/company/MIRKS,Mirpurkhas Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MIRKS
+ADMM,https://dps.psx.com.pk/company/ADMM,Artistic Denim Mills Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ADMM
+DYNO,https://dps.psx.com.pk/company/DYNO,Dynea Pakistan Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DYNO
+KML,https://dps.psx.com.pk/company/KML,Kohinoor Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KML
+KOHTM,https://dps.psx.com.pk/company/KOHTM,Kohat Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOHTM
+KOIL,https://dps.psx.com.pk/company/KOIL,Kohinoor Industries Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KOIL
+FCIBL,https://dps.psx.com.pk/company/FCIBL,First Credit and Investment Bank Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FCIBL
+LSEFSL,https://dps.psx.com.pk/company/LSEFSL,LSE Financial Services Limited.,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/LSEFSL
+PKGI,https://dps.psx.com.pk/company/PKGI,The Pakistan General Insurance Co. Ltd.,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PKGI
+ARCTM,https://dps.psx.com.pk/company/ARCTM,Arctic Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ARCTM
+AGIC,https://dps.psx.com.pk/company/AGIC,Askari General Insurance Company Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AGIC
+PGLC,https://dps.psx.com.pk/company/PGLC,Pak-Gulf Leasing Company Limited,0815,"ALLSHR,KSE100",LEASING COMPANIES,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PGLC
+SHDT,https://dps.psx.com.pk/company/SHDT,Shadab Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHDT
+NITGETF,https://dps.psx.com.pk/etf/NITGETF,NIT Pakistan Gateway ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NITGETF
+RUBY,https://dps.psx.com.pk/company/RUBY,Ruby Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RUBY
+BWHL,https://dps.psx.com.pk/company/BWHL,Baluchistan Wheels Limited,0802,"ALLSHR,KMIALLSHR",AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BWHL
+DAAG,https://dps.psx.com.pk/company/DAAG,Data Agro Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DAAG
+DMTX,https://dps.psx.com.pk/company/DMTX,D.M. Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DMTX
+FTMM,https://dps.psx.com.pk/company/FTMM,First Treet Manufacturing Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FTMM
+REDCO,https://dps.psx.com.pk/company/REDCO,Redco Textiles Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/REDCO
+SAIF,https://dps.psx.com.pk/company/SAIF,Saif Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SAIF
+NBPGETF,https://dps.psx.com.pk/etf/NBPGETF,NBP Pakistan  Growth ETF,0837,,EXCHANGE TRADED FUNDS,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NBPGETF
+TSML,https://dps.psx.com.pk/company/TSML,Tandlianwala Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TSML
+FRCL,https://dps.psx.com.pk/company/FRCL,Frontier Ceramics Limited,0811,"ALLSHR,KMIALLSHR",GLASS & CERAMICS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FRCL
+BUXL,https://dps.psx.com.pk/company/BUXL,Buxly Paints Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BUXL
+TATM,https://dps.psx.com.pk/company/TATM,Tata Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TATM
+ARPL,https://dps.psx.com.pk/company/ARPL,Archroma Pakistan Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ARPL
+ADAMS,https://dps.psx.com.pk/company/ADAMS,Adam Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ADAMS
+CASH,https://dps.psx.com.pk/company/CASH,Calcorp Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/CASH
+SBL,https://dps.psx.com.pk/company/SBL,Samba Bank Limited,0807,ALLSHR,COMMERCIAL BANKS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SBL
+PRWM,https://dps.psx.com.pk/company/PRWM,Prosperity Weaving Mills Limited,0831,ALLSHR,TEXTILE WEAVING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PRWM
+SIEM,https://dps.psx.com.pk/company/SIEM,Siemens (Pakistan) Engineering,0803,ALLSHR,CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SIEM
+HABSM,https://dps.psx.com.pk/company/HABSM,Habib Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HABSM
+ICCI,https://dps.psx.com.pk/company/ICCI,ICC Industries Limited,0831,ALLSHR,TEXTILE WEAVING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ICCI
+OLPM,https://dps.psx.com.pk/company/OLPM,OLP Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/OLPM
+MWMP,https://dps.psx.com.pk/company/MWMP,Mandviwala Mauser Plastic Industries,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MWMP
+SHSML,https://dps.psx.com.pk/company/SHSML,Shahmurad Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHSML
+GATI,https://dps.psx.com.pk/company/GATI,Gatron (Industries) Limited,0827,"ALLSHR,KMIALLSHR",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GATI
+HPL,https://dps.psx.com.pk/company/HPL,Hoechst Pakistan Limited,0823,"ALLSHR,KMIALLSHR",PHARMACEUTICALS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HPL
+786,https://dps.psx.com.pk/company/786,786 Investments Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/786
+PKGP,https://dps.psx.com.pk/company/PKGP,Pakgen Power Limited,0824,"ALLSHR,KSE100",POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PKGP
+PINL,https://dps.psx.com.pk/company/PINL,Premier Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PINL
+MCBIM,https://dps.psx.com.pk/company/MCBIM,MCB Investment Management Limited.,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MCBIM
+JSGCL,https://dps.psx.com.pk/company/JSGCL,JS Global Capital Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSGCL
+SCL,https://dps.psx.com.pk/company/SCL,Shield Corporation Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SCL
+BELA,https://dps.psx.com.pk/company/BELA,Bela Automotives Limited,0802,ALLSHR,AUTOMOBILE PARTS & ACCESSORIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BELA
+JDMT,https://dps.psx.com.pk/company/JDMT,Janana De Malucho Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JDMT
+PPP,https://dps.psx.com.pk/company/PPP,Pakistan Paper Products Limited,0822,"ALLSHR,KMIALLSHR","PAPER, BOARD & PACKAGING",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PPP
+MRNS,https://dps.psx.com.pk/company/MRNS,Mehran Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MRNS
+DWTM,https://dps.psx.com.pk/company/DWTM,Dewan Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DWTM
+FHAM,https://dps.psx.com.pk/company/FHAM,First Habib Modaraba,0819,"ALLSHR,KMIALLSHR,KSE100",MODARABAS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FHAM
+IBFL,https://dps.psx.com.pk/company/IBFL,Ibrahim Fibres Limited,0827,"ALLSHR,KMIALLSHR,KSE100",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IBFL
+FIBLM,https://dps.psx.com.pk/company/FIBLM,First IBL Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FIBLM
+BOK,https://dps.psx.com.pk/company/BOK,The Bank of Khyber,0807,ALLSHR,COMMERCIAL BANKS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BOK
+BFMOD,https://dps.psx.com.pk/company/BFMOD,B.F. Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BFMOD
+SITC,https://dps.psx.com.pk/company/SITC,Sitara Chemical Industries Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SITC
+PIM,https://dps.psx.com.pk/company/PIM,Popular Islamic Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIM
+FFLM,https://dps.psx.com.pk/company/FFLM,First Fidelity Leasing Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FFLM
+PMPK,https://dps.psx.com.pk/company/PMPK,Philip Morris (Pakistan) Limited,0832,ALLSHR,TOBACCO,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PMPK
+REWM,https://dps.psx.com.pk/company/REWM,Reliance Weaving Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/REWM
+DIIL,https://dps.psx.com.pk/company/DIIL,Diamond Industries Limited,0818,"ALLSHR,KMIALLSHR",MISCELLANEOUS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DIIL
+JATM,https://dps.psx.com.pk/company/JATM,J.A. Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JATM
+DLL,https://dps.psx.com.pk/company/DLL,Dawood Lawrencepur Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DLL
+GEMBLUEX,https://dps.psx.com.pk/company/GEMBLUEX,Blue-Ex Limited (GEM),0833,"ALLSHR,KMIALLSHR",TRANSPORT,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GEMBLUEX
+KHYT,https://dps.psx.com.pk/company/KHYT,Khyber Textile Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KHYT
+JSCLPSA,https://dps.psx.com.pk/company/JSCLPSA,Jahangir Sidd(Pref),0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JSCLPSA
+HRPL,https://dps.psx.com.pk/company/HRPL,Habib Rice Product Limited.,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/HRPL
+BPL,https://dps.psx.com.pk/company/BPL,Burshane LPG (Pakistan) Limited,0821,"ALLSHR,KMIALLSHR",OIL & GAS MARKETING COMPANIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BPL
+GSPM,https://dps.psx.com.pk/company/GSPM,Gulshan Spinning Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GSPM
+IDRT,https://dps.psx.com.pk/company/IDRT,Idrees Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IDRT
+SINDM,https://dps.psx.com.pk/company/SINDM,Sindh Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SINDM
+BRRG,https://dps.psx.com.pk/company/BRRG,B.R.R Guardian Limited,0838,"ALLSHR,KMIALLSHR",PROPERTY,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BRRG
+PCAL,https://dps.psx.com.pk/company/PCAL,Pakistan Cables Limited,0803,ALLSHR,CABLE & ELECTRICAL GOODS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PCAL
+BATA,https://dps.psx.com.pk/company/BATA,Bata Pakistan Limited,0816,"ALLSHR,KMIALLSHR",LEATHER & TANNERIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/BATA
+ALNRS,https://dps.psx.com.pk/company/ALNRS,Al-Noor Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ALNRS
+FRSM,https://dps.psx.com.pk/company/FRSM,Faran Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FRSM
+TRIPF,https://dps.psx.com.pk/company/TRIPF,Tri-Pack Films Limited,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TRIPF
+RMPL,https://dps.psx.com.pk/company/RMPL,Rafhan Maize Products Company Limited,0810,"ALLSHR,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RMPL
+AABS,https://dps.psx.com.pk/company/AABS,Al-Abbas Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AABS
+JDWS,https://dps.psx.com.pk/company/JDWS,JDW Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR,KSE100",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/JDWS
+KPUS,https://dps.psx.com.pk/company/KPUS,Khairpur Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/KPUS
+EFUG,https://dps.psx.com.pk/company/EFUG,EFU General Insurance Limited,0812,"ALLSHR,KSE100",INSURANCE,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/EFUG
+NEXT,https://dps.psx.com.pk/company/NEXT,Next Capital Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NEXT
+ZIL,https://dps.psx.com.pk/company/ZIL,ZIL Limited,0810,"ALLSHR,KMIALLSHR",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ZIL
+UPFL,https://dps.psx.com.pk/company/UPFL,Unilever Pakistan Foods Limited,0810,"ALLSHR,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/UPFL
+ISIL,https://dps.psx.com.pk/company/ISIL,Ismail Industries Limited,0810,ALLSHR,FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ISIL
+SHJS,https://dps.psx.com.pk/company/SHJS,Shahtaj Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SHJS
+SAPT,https://dps.psx.com.pk/company/SAPT,Sapphire Textile Mills Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SAPT
+PSEL,https://dps.psx.com.pk/company/PSEL,Pakistan Services Limited,0818,"ALLSHR,KMIALLSHR,KSE100",MISCELLANEOUS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PSEL
+MEHT,https://dps.psx.com.pk/company/MEHT,Mehmood Textile Mills Limited,0829,"ALLSHR,KSE100",TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MEHT
+AMBL,https://dps.psx.com.pk/company/AMBL,Apna Microfinance Bank Limited,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AMBL
+AATM,https://dps.psx.com.pk/company/AATM,Ali Asghar Textile Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/AATM
+NESTLE,https://dps.psx.com.pk/company/NESTLE,Nestle Pakistan Limited,0810,"ALLSHR,KMIALLSHR,KSE100",FOOD & PERSONAL CARE PRODUCTS,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NESTLE
+GUSM,https://dps.psx.com.pk/company/GUSM,Gulistan Spinning Mills Limited,0830,ALLSHR,TEXTILE SPINNING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/GUSM
+SGPL,https://dps.psx.com.pk/company/SGPL,S.G. Power Limited,0824,ALLSHR,POWER GENERATION & DISTRIBUTION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SGPL
+DINT,https://dps.psx.com.pk/company/DINT,Din Textile Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/DINT
+STL,https://dps.psx.com.pk/company/STL,Supernet Technologies Limited,0828,ALLSHR,TECHNOLOGY & COMMUNICATION,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/STL
+MSOT,https://dps.psx.com.pk/company/MSOT,Masood Textile Mills Limited,0829,ALLSHR,TEXTILE COMPOSITE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/MSOT
+SANSM,https://dps.psx.com.pk/company/SANSM,Sanghar Sugar Mills Limited,0826,"ALLSHR,KMIALLSHR",SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SANSM
+RCML,https://dps.psx.com.pk/company/RCML,Reliance Cotton Spinning Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/RCML
+PECO,https://dps.psx.com.pk/company/PECO,Pakistan Engineering Company Limited,0808,ALLSHR,ENGINEERING,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PECO
+PIAHCLB,https://dps.psx.com.pk/company/PIAHCLB,PIA Holding Company LimitedB,0813,ALLSHR,INV. BANKS / INV. COS. / SECURITIES COS.,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/PIAHCLB
+SFL,https://dps.psx.com.pk/company/SFL,Sapphire Fibres Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SFL
+ORM,https://dps.psx.com.pk/company/ORM,Orient Rental Mod,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ORM
+SUHJ,https://dps.psx.com.pk/company/SUHJ,Suhail Jute Mills Limited,0814,ALLSHR,JUTE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SUHJ
+SURC,https://dps.psx.com.pk/company/SURC,Suraj Cotton Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SURC
+NSRM,https://dps.psx.com.pk/company/NSRM,The National Silk & Rayon Mills Limited,0827,"ALLSHR,KMIALLSHR",SYNTHETIC & RAYON,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NSRM
+TPLI,https://dps.psx.com.pk/company/TPLI,TPL Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TPLI
+IGIL,https://dps.psx.com.pk/company/IGIL,IGI Life Insurance Limited,0812,ALLSHR,INSURANCE,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IGIL
+FIMM,https://dps.psx.com.pk/company/FIMM,First Imrooz Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FIMM
+FTSM,https://dps.psx.com.pk/company/FTSM,First Tri-Star Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FTSM
+TSMF,https://dps.psx.com.pk/company/TSMF,Tri-Star Mutual Fund Limited,0806,ALLSHR,CLOSE - END MUTUAL FUND,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/TSMF
+FPRM,https://dps.psx.com.pk/company/FPRM,First Paramount Modaraba,0819,"ALLSHR,KMIALLSHR",MODARABAS,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FPRM
+ARPAK,https://dps.psx.com.pk/company/ARPAK,Arpak International Investments Ltd.,0818,ALLSHR,MISCELLANEOUS,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ARPAK
+FZCM,https://dps.psx.com.pk/company/FZCM,Fazal Cloth Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/FZCM
+IDSM,https://dps.psx.com.pk/company/IDSM,Ideal Spinning Mills Limited,0830,"ALLSHR,KMIALLSHR",TEXTILE SPINNING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/IDSM
+NONS,https://dps.psx.com.pk/company/NONS,Noon Sugar Mills Limited,0826,ALLSHR,SUGAR & ALLIED INDUSTRIES,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/NONS
+SARC,https://dps.psx.com.pk/company/SARC,Sardar Chemical Industries Limited,0805,"ALLSHR,KMIALLSHR",CHEMICAL,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/SARC
+STJT,https://dps.psx.com.pk/company/STJT,Shahtaj Textile Limited,0831,"ALLSHR,KMIALLSHR",TEXTILE WEAVING,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/STJT
+ZAHID,https://dps.psx.com.pk/company/ZAHID,Zahidjee Textile Mills Limited,0829,"ALLSHR,KMIALLSHR",TEXTILE COMPOSITE,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://dps.psx.com.pk/timeseries/eod/ZAHID

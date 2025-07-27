@@ -17,7 +17,7 @@ def train_and_predict(symbol, horizon_days, start_date=None):
             raise ValueError("No data available before the given date.")
 
     prophet_df = df[['timestamp', 'close_price']].rename(columns={'timestamp': 'ds', 'close_price': 'y'})
-    model = Prophet(daily_seasonality=True)
+    model = Prophet(yearly_seasonality=True)
     model.fit(prophet_df)
 
     future = model.make_future_dataframe(periods=horizon_days)
